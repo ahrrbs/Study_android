@@ -2,5 +2,4 @@ app/build
 .idea/
 .gradle/
 contents/
-.mp3/
-My33_AudioPlayer/app/src/main/res/raw/m01.mp3
+
